@@ -3,7 +3,7 @@
 ### [Live Site]()
 &nbsp;
 
-This project is a fully [responsive website](https://en.wikipedia.org/wiki/Responsive_web_design) of a hypothetical little taco restaraunt _**The Little Taco Shop**_.
+This project is a fully [responsive website](https://en.wikipedia.org/wiki/Responsive_web_design) of a hypothetical little taco restaurant _**The Little Taco Shop**_.
 
 ## Table of contents
 
