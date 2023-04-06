@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        /* || FONT VARIABLES */
+
+        --FONT-FAMILY: sans-serif, Georgia;
+        --FONT-FAMILY-HEADINGS: 'Merriweather', serif;
+        --FONT-SIZE: clamp(1rem, 2.2vh, 1.5rem);
+
+        /* || COLOR VARIABLES */
+
+        --BGCOLOR-FADE: hsl(39, 94%, 81%);
+        --BGCOLOR: orange;
+        --BORDER-COLOR: hsl(0, 0%, 20%);
+        --BUTTON-BGCOLOR: hsl(87, 35%, 48%);
+        --BUTTON-BOX-SHADOW-BOTTOM-RIGHT-COLOR: hsl(0, 0%, 20%);
+        --BUTTON-BOX-SHADOW-TOP-LEFT-COLOR: hsla(0, 0%, 100%, 0.6);
+        --BUTTON-GLOW-SHADOW-COLOR: hsla(87, 72%, 53%, 0.845);
+        --BUTTON-HOVER-FOCUS-BGCOLOR: hsl(87, 60%, 48%);
+        --GREET-BGCOLOR: hsla(120, 55%, 45%, 0.75);
+        --HIGHLIGHT-COLOR: hsl(120, 55%, 45%);
+    }
+}
+
+@layer components {
+    .btn {
+        @apply my-1em mr-1em bg-[var(--BUTTON-BGCOLOR)] py-[0.4em] px-[1.25em] rounded-[10px] text-white text-center [text-shadow:2px_2px_3px_var(--BORDER-COLOR)] shadow-[inset_2px_2px_3px_var(--BUTTON-BOX-SHADOW-TOP-LEFT-COLOR),inset_-2px_-3.5px_3px_var(--BUTTON-BOX-SHADOW-BOTTOM-RIGHT-COLOR)] hover:bg-green-chartreuse hover:[text-shadow:none] hover:scale-110 focus-visible:bg-green-chartreuse focus-visible:[text-shadow:none] focus-visible:scale-110 focus-visible:outline-offset-4 focus-visible:outline-green-chartreuse active:shadow-[inset_-2px_-2px_3px_var(--BUTTON-BOX-SHADOW-TOP-LEFT-COLOR),inset_2px_3.5px_3px_var(--BUTTON-BOX-SHADOW-BOTTOM-RIGHT-COLOR)] dark:[--BUTTON-BOX-SHADOW-BOTTOM-RIGHT-COLOR:var(--BUTTON-BGCOLOR)] dark:text-gray dark:hover:text-white dark:hover:shadow-[1px_1px_30px_5px_var(--BUTTON-GLOW-SHADOW-COLOR)] dark:focus-visible:text-white dark:focus-visible:shadow-[1px_1px_30px_5px_var(--BUTTON-GLOW-SHADOW-COLOR)] dark:active:shadow-[inset_-2px_-2px_3px_var(--BUTTON-BOX-SHADOW-TOP-LEFT-COLOR),inset_2px_3.5px_3px_var(--BUTTON-BGCOLOR)];
+    }
+}
