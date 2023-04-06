@@ -1,6 +1,10 @@
 # Liitle Taco Shop Project
 
-### [Live Site]()
+### [Live Site](https://little-taco-shop-project.netlify.app/)
+
+<p align="center">
+  <a href="https://app.netlify.com/sites/little-taco-shop-project/deploys"><img src="https://api.netlify.com/api/v1/badges/b23b38f3-9549-411a-b3a1-2acb8eeed4ae/deploy-status" alt="Netlify Status"></a>
+</p>
 &nbsp;
 
 This project is a fully [responsive website](https://en.wikipedia.org/wiki/Responsive_web_design) of a hypothetical little taco restaurant _**The Little Taco Shop**_.
@@ -43,7 +47,7 @@ This project is a fully [responsive website](https://en.wikipedia.org/wiki/Respo
 
 ### Inspiration
 
-The inspiration and design idea of this project came from this [awesome CSS tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo). I built this project on my own and added a [modal](https://en.wikipedia.org/wiki/Modal_window) to the [contact page]() which pops up when the user submits the form. I used [Tailwind](https://en.wikipedia.org/wiki/Tailwind_CSS) insted of [vanilla CSS](https://en.wikipedia.org/wiki/CSS).
+The inspiration and design idea of this project came from this [awesome CSS tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo). I built this project on my own and added a [modal](https://en.wikipedia.org/wiki/Modal_window) to the [contact page](https://little-taco-shop-project.netlify.app/contact.html) which pops up when the user submits the form. I used [Tailwind](https://en.wikipedia.org/wiki/Tailwind_CSS) insted of [vanilla CSS](https://en.wikipedia.org/wiki/CSS).
 
 &nbsp;
 
