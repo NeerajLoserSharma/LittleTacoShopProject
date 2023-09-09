@@ -3,7 +3,7 @@
 ### [Live Site](https://little-taco-shop-project.netlify.app/)
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/little-taco-shop-project/deploys"><img src="https://api.netlify.com/api/v1/badges/b23b38f3-9549-411a-b3a1-2acb8eeed4ae/deploy-status" alt="Netlify Status"></a>
+  <a href="https://app.netlify.com/sites/little-taco-shop-project/deploys"><img src="https://api.netlify.com/api/v1/badges/b23b38f3-9549-411a-b3a1-2acb8eeed4ae/deploy-status" alt="Netlify Deploy Status"></a>
 </p>
 &nbsp;
 
