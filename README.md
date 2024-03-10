@@ -30,19 +30,19 @@ This project is a fully [responsive website](https://en.wikipedia.org/wiki/Respo
 
 <p align="center">Screenshot of the home page of LTS website</p>
 
-![Screenshot of the home page of Liitle Taco Shop Project website](https://www.linkpicture.com/q/home_page_screenshot.png)
+![Screenshot of the home page of Liitle Taco Shop Project website](https://i.imgur.com/rGTERYc.png)
 
 <p align="center">Screenshot of the store hours page</p>
 
-![Screenshot of the store hours page of Liitle Taco Shop Project website](https://www.linkpicture.com/q/hours_page_screenshot.png)
+![Screenshot of the store hours page of Liitle Taco Shop Project website](https://i.imgur.com/JA9UG9A.png)
 
 <p align="center">Screenshot of the contact page</p>
 
-![Screenshot of the contact page of Liitle Taco Shop Project website](https://www.linkpicture.com/q/contact_page_screenshot.png)
+![Screenshot of the contact page of Liitle Taco Shop Project website](https://i.imgur.com/ouVZac0.png)
 
 <p align="center">Screenshot of about page</p>
 
-![Screenshot of about page of Liitle Taco Shop Project website](https://www.linkpicture.com/q/abt_page_screeshot.png)
+![Screenshot of about page of Liitle Taco Shop Project website](https://i.imgur.com/k8kEKw6.png)
 &nbsp;
 
 ### Inspiration
